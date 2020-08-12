@@ -1,6 +1,12 @@
 ## Hi there 👋
 
-- 🌱 I’m currently learning **Flutter**
+- 🔥 React
+- ❤ Node
+- 👑 Python
+- 🌱 learning **Flutter**
+
+
+
 
 
 
