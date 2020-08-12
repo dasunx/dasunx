@@ -6,8 +6,8 @@
 - 🌱 learning **Flutter**
 
 
-- ![GitHub followers](https://img.shields.io/github/followers/dasunx?label=Follow&style=social)
-- <a href="https://twitter.com/dasunxz"><img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/dasunxz?style=social"> </a>
+![GitHub followers](https://img.shields.io/github/followers/dasunx?label=Follow&style=social) <br/>
+<a href="https://twitter.com/dasunxz"><img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/dasunxz?style=social"> </a>
 
 
 <!--
