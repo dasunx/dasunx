@@ -6,7 +6,7 @@
 - 🌱 learning **Flutter**
 
 
-
+.. image:: https://img.shields.io/github/followers/dasunx?label=Follow&style=social   :alt: GitHub followers
 
 
 
