@@ -5,8 +5,8 @@
 - 👑 Python
 - 🌱 learning **Flutter**
 
-
-.. image:: https://img.shields.io/github/followers/dasunx?label=Follow&style=social   :alt: GitHub followers
+![GitHub followers](https://img.shields.io/github/followers/dasunx?label=Follow&style=social)
+![Twitter URL](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2Fdasunxz)
 
 
 
