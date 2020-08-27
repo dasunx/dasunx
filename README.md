@@ -1,9 +1,9 @@
 ## Hi there 👋
 
-- 🔥 React
-- ❤ Node
+- 🔥 **React**
+- ❤ **Node**
 - 🌱 learning  👑 **Python**
-- I know Java 🎀, PHP 🎉, C 🎁, C++ 🎊
+- I know **Java** 🎀, **PHP** 🎉, **C** 🎁, **C++** 🎊
 - 🌱 learning  **Flutter** 
 
 
