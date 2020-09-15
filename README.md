@@ -4,7 +4,7 @@
 - ❤ **Node**
 - 🌱 learning  👑 **Python**
 - I know **Java** 🎀, **PHP** 🎉, **C** 🎁, **C++** 🎊
-- 🌱 learning  **Flutter** 
+- 🌱 **Flutter** Beginner
 
 
 ![GitHub followers](https://img.shields.io/github/followers/dasunx?label=Follow&style=social) <br/>
