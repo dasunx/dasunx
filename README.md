@@ -10,8 +10,8 @@
 ![Dasun's github stats](https://github-readme-stats.vercel.app/api/?username=dasunx&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 
 
-![GitHub followers](https://img.shields.io/github/followers/dasunx?label=Follow&style=social) <br/>
-<a href="https://twitter.com/dasunxz"><img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/dasunxz?style=social"> </a>
+![GitHub followers](https://img.shields.io/github/followers/dasunx?label=Follow&logo=github&style=for-the-badge) <br/>
+<a href="https://twitter.com/dasunxz"><img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/dasunxz?label=Follow%20Me%20on%20Twitter&logo=twitter&style=for-the-badge"> </a>
 
 
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
