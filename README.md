@@ -7,7 +7,7 @@
 - 🥈 **Flutter** Intermediate 
 
 
-![Dasun's github stats](https://github-readme-stats.vercel.app/api/?username=dasunx&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+![Dasun's github stats](https://github-readme-stats.vercel.app/api/?username=dasunx&show_icons=true&title_color=00A885&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 
 
 ![GitHub followers](https://img.shields.io/github/followers/dasunx?label=Follow&logo=github&style=for-the-badge) <br/>
