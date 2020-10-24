@@ -33,3 +33,5 @@
 ### profile visitors:
 <img src="https://profile-counter.glitch.me/dasunx/count.svg">
 
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=dasunx&repo=event-planner)](https://github.com/dasunx/event-planner)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=dasunx&repo=ticket-automation-backend)](https://github.com/dasunx/ticket-automation-backend)
