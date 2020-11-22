@@ -28,9 +28,8 @@
 <a target="_blank" href="https://linkedin.com/in/dasunzx"><img alt="Linkedin connect" src="https://img.shields.io/twitter/url?label=Linkedin&logo=linkedin&style=for-the-badge&url=https%3A%2F%2Flinkedin.com%2Fin%2Fdasunzx"> </a>
 
 
-
-### profile visitors:
-<code><img src="https://profile-counter.glitch.me/dasunx/count.svg"></code>
-
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=dasunx&repo=event-planner)](https://github.com/dasunx/event-planner)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=dasunx&repo=ticket-automation-backend)](https://github.com/dasunx/ticket-automation-backend)
+
+<!----### profile visitors:
+<code><img src="https://profile-counter.glitch.me/dasunx/count.svg" ></code>---!>
